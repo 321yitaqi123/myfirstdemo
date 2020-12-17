@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="logtest">
+    <output-path>$PROJECT_DIR$/../logtest</output-path>
+    <root id="archive" name="logtest.jar">
+      <element id="module-output" name="SparkStreamingTestJava" />
+    </root>
+  </artifact>
+</component>
